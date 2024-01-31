@@ -1,0 +1,18 @@
+What is Git?
+
+Git is a distributed version control system 
+
+It tracks changes in any set of computer files
+
+It is used for usually used for coordinating work among programmers who are collaboratively developing source code 
+
+So when you'll be working on your 301 project as a team it will help you collaboratively work on source code together.
+by keeping track of who made what changes and when.
+
+Git allows you to maintain a local repository on your machine and a remote repository on git servers.
+
+
+https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git
+
+
+
